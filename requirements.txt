@@ -1,7 +1,6 @@
-# requirements.txt
 streamlit>=1.32.0
 pandas>=2.0.0
-numpy>=1.26.0
+numpy>=1.26.0,<2.0.0
 scikit-learn>=1.4.0
 textblob>=0.18.0
 vaderSentiment>=3.3.2
@@ -10,7 +9,6 @@ plotly>=5.20.0
 requests>=2.31.0
 fer>=22.5.1
 opencv-python-headless>=4.5.5.64
-
+tensorflow-cpu==2.15.1
 deepface
 tf-keras
-tensorflow-cpu
