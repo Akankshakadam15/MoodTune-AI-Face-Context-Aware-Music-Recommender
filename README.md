@@ -14,9 +14,7 @@ This project is an AI-driven music recommendation system that understands the us
 Based on the detected emotion, the system recommends songs that match, support, or improve your mood.
 Every suggested song comes with explainable reasoning and direct ▶️ Spotify and ▶️ YouTube play buttons.
 
-## 🌐 Live Demo
 
-🔗 https://moodtune-ai-face-context-aware-music-recommender-kweppx2smru8g.streamlit.app/
 
 
 
